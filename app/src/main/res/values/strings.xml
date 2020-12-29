@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">cse438-assignment2</string>
+    <string name="game_name">Dice Roll!</string>
+    <string name="num_dice">Number of Dice</string>
+    <string name="dice_value">Max Dice Value</string>
+    <string name="roll_button">Roll</string>
+    <string name="clear_button">Clear</string>
+    <string name="ok_alert_button">Ok</string>
+    <string name="cancel_alert_button">Cancel</string>
+
+    <string name="value_text">Value</string>
+    <string name="value_num">18</string>
+    <string name="see_dice_result_button">See Dice Results</string>
+    <string name="see_roll_result_button">See Roll Results</string>
+    <string name="reroll_button">Reroll</string>
+    <string name="home_button">Home</string>
+
+    <string name="highest_text">Highest</string>
+    <string name="highest_num">10</string>
+    <string name="lowest_text">Lowest</string>
+    <string name="lowest_num">3</string>
+    <string name="average_text">Average</string>
+    <string name="average_num">6</string>
+    <string name="highest_button">Highest</string>
+    <string name="lowest_button">Lowest</string>
+    <string name="average_button">Average</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="show_history">Dice History</string>
+    <string name="dice_id">id</string>
+    <string name="dice_sum">sum</string>
+    <string name="dice_each">value</string>
+    <string name="dice_highest">max</string>
+    <string name="dice_lowest">min</string>
+    <string name="dice_average">mean</string>
+
+</resources>
